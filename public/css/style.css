@@ -1,0 +1,29 @@
+header{
+    background-color: #EAC926;
+}
+.burguer-menu{
+    background-color: #03264C;
+   
+}
+
+body{ font-family: 'Roboto', sans-serif;
+
+}
+.titulares{
+    font-size: 24px;
+}
+.precio{
+    font-size: 18px;
+}
+.dyd{font-size: 16px;}
+.texto{
+    font-size: 12px;
+    text-align: center;
+}
+.centrado{
+    text-align: center;
+    
+}
+.copy{
+    font-size: 12px;
+}
