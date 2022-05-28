@@ -70,3 +70,11 @@ div button {
     align-items: center;
   
 }
+#compracuotas{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#iconos{
+    display: inline;
+}
