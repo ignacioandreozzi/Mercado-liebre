@@ -1,29 +1,72 @@
-header{
+header {
     background-color: #EAC926;
 }
-.burguer-menu{
-    background-color: #03264C;
-   
+
+
+
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+
 }
 
-body{ font-family: 'Roboto', sans-serif;
-
-}
-.titulares{
+.titulares {
     font-size: 24px;
 }
-.precio{
+
+.precio {
     font-size: 18px;
 }
-.dyd{font-size: 16px;}
-.texto{
+
+.dyd {
+    font-size: 16px;
+}
+
+.texto {
     font-size: 12px;
     text-align: center;
+    margin-left: 5em;
+    margin-right: 5em;
 }
-.centrado{
+
+.centrado {
     text-align: center;
-    
+
 }
-.copy{
+
+.copy {
     font-size: 12px;
+}
+
+nav {
+    display: inline;
+}
+
+.lista {
+    padding: 0px;
+}
+
+.burger-menu {
+    text-align: center;
+}
+
+.footer i {
+    color: blue
+}
+
+div button {
+    margin: 0 auto;
+    color: white;
+    background-color: blue;
+    border-radius: 6px;
+    border: #1259c3;
+    padding: 11px
+}
+
+#chacho {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
 }
