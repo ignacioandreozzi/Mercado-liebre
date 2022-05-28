@@ -50,15 +50,15 @@ nav {
 }
 
 .footer i {
-    color: blue
+    color: #03264c
 }
 
 #menu {
     margin: 0 auto;
     color: white;
-    background-color: #000080;
+    background-color: #03264c;
     border-radius: 6px;
-    border: #1259c3;
+    border: #03264c;
     padding: 12px
 }
 
@@ -85,8 +85,8 @@ nav {
     height: 25px;
     font-size: small;
     color: black;
-    outline: blue;
-    border: 1px solid #000080;
+    outline: #03264c;
+    border: 1px solid #03264c;
     border-radius: 20px;
    
     
@@ -94,7 +94,7 @@ nav {
 #lupa{
 
     display: inline;
-    border: 1px solid #000080;
+    border: 1px solid #03264c;
     border-radius: 20px;
   
 
