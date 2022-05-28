@@ -61,7 +61,7 @@ div button {
     background-color: blue;
     border-radius: 6px;
     border: #1259c3;
-    padding: 11px
+    padding: 12px
 }
 
 #chacho {
@@ -77,4 +77,13 @@ div button {
 }
 #iconos{
     display: inline;
+}
+.buscar input{
+    width: 300px;
+    height: 25px;
+    font-size: small;
+color: black;
+outline: blue;
+border: 2px solid  #000080;
+border-radius: 20px;
 }
