@@ -2,10 +2,6 @@ header {
     background-color: #EAC926;
 }
 
-
-
-
-
 body {
     font-family: 'Roboto', sans-serif;
 
@@ -68,22 +64,25 @@ div button {
     display: flex;
     justify-content: center;
     align-items: center;
-  
+
 }
-#compracuotas{
+
+#compracuotas {
     display: flex;
     justify-content: center;
     align-items: center;
 }
-#iconos{
+
+#iconos {
     display: inline;
 }
-.buscar input{
+
+.buscar input {
     width: 300px;
     height: 25px;
     font-size: small;
-color: black;
-outline: blue;
-border: 2px solid  #000080;
-border-radius: 20px;
+    color: black;
+    outline: blue;
+    border: 2px solid #000080;
+    border-radius: 20px;
 }
