@@ -47,6 +47,7 @@ nav {
 
 .burger-menu {
     text-align: center;
+    
 }
 
 .footer i {
@@ -59,7 +60,8 @@ nav {
     background-color: #03264c;
     border-radius: 6px;
     border: #03264c;
-    padding: 12px
+    padding: 12px;
+    margin-bottom: 5px;
 }
 
 #chacho {
