@@ -1,12 +1,10 @@
-html{
-    font-size: 10px;
-}
 header {
     background-color: #EAC926;
 }
 main {
     background-color: #ebebeb;
     width: 90vw;
+    color: #666;
 }
 body {
     font-family: 'Roboto', sans-serif;
@@ -51,6 +49,7 @@ body {
 
 nav {
     display: inline;
+    
 }
 
 .lista {
@@ -104,6 +103,7 @@ nav {
     outline: #03264c;
     border: 1px solid #03264c;
     border-radius: 20px;
+    width: 80%;
    
     
 }
@@ -150,3 +150,23 @@ border-color: grey
     margin :0
     
 }
+@media (max-width :428px){ 
+    .dyd{
+        display: none;
+    }
+    ul{
+        display: none;
+    }
+}
+ 
+
+
+@media (min-width : 429px){
+   .burger-menu{
+       display: none;
+   }
+}
+    .articulo{
+        box-shadow: 0px 0px 10px rgb(100, 100, 100);
+    }
+
