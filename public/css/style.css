@@ -1,11 +1,13 @@
 header {
     background-color: #EAC926;
 }
+
 main {
     background-color: #ebebeb;
     width: 90vw;
     color: #666;
 }
+
 body {
     font-family: 'Roboto', sans-serif;
 
@@ -20,6 +22,7 @@ body {
     padding: 0%;
     margin: 0%;
 }
+
 .dyc {
     font-size: 16px;
     color: #39b54a;
@@ -27,6 +30,7 @@ body {
     margin: 0%;
 
 }
+
 .dyd {
     font-size: 16px;
 }
@@ -49,18 +53,18 @@ body {
 
 nav {
     display: inline;
-    
+
 }
 
 .lista {
     padding-left: 5px;
-    
+
 
 }
 
 .burger-menu {
     text-align: center;
-    
+
 }
 
 .footer i {
@@ -104,34 +108,43 @@ nav {
     border: 1px solid #03264c;
     border-radius: 20px;
     width: 80%;
-   
-    
+
+
 }
-#lupa{
+
+#lupa {
 
     display: inline;
     border: 1px solid #03264c;
     border-radius: 20px;
-  
+
 
 }
+
 nav {
     padding-left: 5px;
 }
+
 margin {
-   color: #EAC926;
+    color: #EAC926;
 }
-.buscar{
+
+.buscar {
     padding-left: 5px;
 }
+
 .banner {
     width: 100%;
 }
+
 hr {
-    border-width: 5px; width: 50%; border-style: dotted none none;
-border-color: grey
+    border-width: 5px;
+    width: 50%;
+    border-style: dotted none none;
+    border-color: grey
 }
-.fa-shipping-fast{
+
+.fa-shipping-fast {
     color: #39b54a;
     font-size: 16px;
     padding: 5px;
@@ -139,34 +152,38 @@ border-color: grey
     height: 30px;
     border: 1px solid #39b54a;
     background-color: #FFF;
-    border-radius: 50%;}
-.articulo{
+    border-radius: 50%;
+}
+
+.articulo {
     margin-bottom: 10px;
 }
-.articulo-detail{
+
+.articulo-detail {
     border-top: solid 1px #ebebeb;
     background-color: white;
     padding: 15px;
-    margin :0
-    
+    margin: 0
 }
-@media (max-width :428px){ 
-    .dyd{
+
+@media (max-width :428px) {
+    .dyd {
         display: none;
     }
-    ul{
+
+    ul {
         display: none;
     }
 }
- 
 
 
-@media (min-width : 429px){
-   .burger-menu{
-       display: none;
-   }
-}
-    .articulo{
-        box-shadow: 0px 0px 10px rgb(100, 100, 100);
+
+@media (min-width : 429px) {
+    .burger-menu {
+        display: none;
     }
+}
 
+.articulo {
+    box-shadow: 0px 0px 10px rgb(100, 100, 100);
+}
