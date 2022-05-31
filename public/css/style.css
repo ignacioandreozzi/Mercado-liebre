@@ -1,7 +1,13 @@
+html{
+    font-size: 10px;
+}
 header {
     background-color: #EAC926;
 }
-
+main {
+    background-color: #ebebeb;
+    width: 90vw;
+}
 body {
     font-family: 'Roboto', sans-serif;
 
@@ -13,8 +19,16 @@ body {
 
 .precio {
     font-size: 18px;
+    padding: 0%;
+    margin: 0%;
 }
+.dyc {
+    font-size: 16px;
+    color: #39b54a;
+    padding: 0%;
+    margin: 0%;
 
+}
 .dyd {
     font-size: 16px;
 }
@@ -109,4 +123,30 @@ margin {
 }
 .buscar{
     padding-left: 5px;
+}
+.banner {
+    width: 100%;
+}
+hr {
+    border-width: 5px; width: 50%; border-style: dotted none none;
+border-color: grey
+}
+.fa-shipping-fast{
+    color: #39b54a;
+    font-size: 16px;
+    padding: 5px;
+    width: 30px;
+    height: 30px;
+    border: 1px solid #39b54a;
+    background-color: #FFF;
+    border-radius: 50%;}
+.articulo{
+    margin-bottom: 10px;
+}
+.articulo-detail{
+    border-top: solid 1px #ebebeb;
+    background-color: white;
+    padding: 15px;
+    margin :0
+    
 }
